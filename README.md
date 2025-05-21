@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요,%20choi-H-Seok%20의%20깃허브입니다%20👋&fontSize=40&fontAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요,%20Choi-H-Seok%20의%20깃허브입니다%20👋&fontSize=40&fontAlign=50&fontColor=ffffff)
 
 
 
